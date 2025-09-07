@@ -1,6 +1,3 @@
-Yes—your tap should have its own README so users (and future you) know exactly what this repo does. Here’s a **complete `README.md`** you can drop into `tjamescouch/homebrew-org`.
-
----
 
 ````markdown
 # homebrew-org (tap)
@@ -133,8 +130,4 @@ orgctl vm destroy
 
 MIT. See the main project’s LICENSE.
 
-```
-
-If you want this tailored with your current version number and a concrete tarball URL/SHA, tell me the release details and I’ll fill them in.
-::contentReference[oaicite:0]{index=0}
 ```
