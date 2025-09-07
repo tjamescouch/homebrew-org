@@ -5,7 +5,7 @@ class Org < Formula
   version   "0.1.0"
 
   url "https://github.com/tjamescouch/org/releases/download/v0.1.0/orgctl-0.1.0.tar.gz"
-  sha256 "<<<paste sha256 here>>>"
+  sha256 "b46734955e8c98906013834cf8fd6da51dffbd65461236f9a1230eecfc969f7d"
 
   depends_on "bash"
   depends_on "coreutils"
