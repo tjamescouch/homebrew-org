@@ -4,7 +4,7 @@ class Org < Formula
   license   "MIT"
   version   "0.3.0"
 
-  url "https://github.com/tjamescouch/org/releases/download/v0.1.0/orgctl-0.1.0.tar.gz"
+  url "https://github.com/tjamescouch/org/releases/download/v0.3.0/orgctl-0.3.0.tar.gz"
   sha256 "b13877aacf301e5379b60fdb4cc3dfd967a59e5ff054af4e361a51276c81ea13"
 
   depends_on "bash"
