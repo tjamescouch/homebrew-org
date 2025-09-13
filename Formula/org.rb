@@ -2,10 +2,10 @@ class Org < Formula
   desc      "org: safe VM-backed dev helper"
   homepage  "https://github.com/tjamescouch/org"
   license   "MIT"
-  version   "1.0.2"
+  version   "1.0.4"
 
-  url "https://github.com/tjamescouch/org/releases/download/v1.0.2/orgctl-1.0.2.tar.gz"
-  sha256 "b66ffaa8962574b237f662e8e7c8ab4c4a04999026aa0ebe0add5f79ae592ea6"
+  url "https://github.com/tjamescouch/org/releases/download/v1.0.4/orgctl-1.0.4.tar.gz"
+  sha256 "99d68082a085ab671fc37ccbe581c4699b61d6fcfff6116b4b1595d932aa5c48"
 
   depends_on "bash"
   depends_on "coreutils"
